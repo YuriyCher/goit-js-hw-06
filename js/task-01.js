@@ -1,4 +1,8 @@
+const categoriesEl= document.querySelector("ul"); 
+console.log("categories");
 
+const navItemEl = document.querySelector(`li`);
+console.log(navItemEl);
 
 
 
