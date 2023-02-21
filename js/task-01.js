@@ -1,8 +1,30 @@
-const categoriesEl= document.querySelector("ul"); 
-console.log("categories");
+
+
+
+const categoriesEl= document.querySelector(`ul`); 
+
+console.log(categoriesEl);
+
+
+
+
+
 
 const navItemEl = document.querySelector(`li`);
 console.log(navItemEl);
+`10+5`
+15-2
+
+
+
+
+
+
+
+
+
+
+
 
 
 
