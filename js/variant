@@ -1,0 +1,10 @@
+console.log(`[]===[] ; `, []===[]) ;
+console.log(`{}==={} ; `, {}==={}); 
+console.log(
+    `function() {} === function() {};`,
+    function() {} === function() {},
+);
+const fn A = function() {
+console.log(`hello`);
+};
+const fn B=  fn A;  console.log(fn B=== fn A;, fn B=== fn A;)
